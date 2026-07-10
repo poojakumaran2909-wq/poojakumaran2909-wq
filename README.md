@@ -19,17 +19,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 💻 Passionate about software development
-* 🌱 Currently learning modern technologies
-* 🎯 Focused on writing clean and efficient code
-* 🤝 Open to collaboration on interesting projects
-* ⚡ Love solving real-world problems
+*  Passionate about software development
+*  Currently learning modern technologies
+*  Focused on writing clean and efficient code
+*  Open to collaboration on interesting projects
+*  Love solving real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -46,7 +46,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
 </p>
 
 ### Tools
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p>
 
@@ -131,6 +131,6 @@
 
 <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
 
-⭐ If you like my work, consider starring my repositories.
+ If you like my work, consider starring my repositories.
 
 </div>
